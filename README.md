@@ -1,2 +1,2 @@
-# Jarvis_repo
+# My Project Repo
 This is the repo for uploading coding projects!
